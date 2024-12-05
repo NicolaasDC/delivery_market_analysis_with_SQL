@@ -64,7 +64,9 @@ def takeaway():
 
 print('Deliveroo: ')
 deliveroo()
+print('')
 print('Uber Eats: ')
 uber_eats()
+print('')
 print('Takeaway: ')
 takeaway()
