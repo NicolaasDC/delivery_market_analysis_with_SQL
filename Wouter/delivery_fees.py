@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import folium
 
 def find_polygon():
-    postal_codes = gpd.read_file('../Databases/georef-belgium-postal-codes@public.geojson')
+    postal_codes = gpd.read_file('./Databases/georef-belgium-postal-codes@public.geojson')
 
     postal_code_df = pd.DataFrame({'postal_code': postal_codes.postcode, 'geometry': postal_codes.geometry})
     postal_code_df['postal_code'] = postal_code_df['postal_code'].str.strip()
