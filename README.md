@@ -46,6 +46,7 @@ You can also answer these open ended questions:
 
 ## 📦 Repo Structure
 
+```
 ├── Database_schemes/
 │   ├── SQL_schema_deliveroo.png
 │   ├── SQL_schema_takeaway.png
@@ -64,6 +65,7 @@ You can also answer these open ended questions:
 ├── main.ipynb
 ├── README.md
 └── requirements.txt
+```
 
 ## 🔧 Installation
 
