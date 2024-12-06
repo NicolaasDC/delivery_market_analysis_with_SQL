@@ -3,7 +3,7 @@
 
 - Duration: `1 week`
 - Team: `Group`
-  - Zhelim: https://github.com/KhanZelim
+  - Zelim: https://github.com/KhanZelim
   - Nicolaas: https://github.com/NicolaasDC
   - Moustafa: https://github.com/mgabil
   - Wouter: https://github.com/Zeegeuze
